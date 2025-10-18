@@ -1,1 +1,2 @@
 Learning Git commands and version control.
+Practicing branching and merging.
